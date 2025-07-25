@@ -56,6 +56,10 @@ Each script performs a specific task as outlined in the project requirements. Be
 | `20-hiago` | Removes all letters `c` and `C` from input |
 | `21-reverse` | Reverses input |
 | `22-users_and_homes` | Displays all users and their home directories, sorted by users |
+| `100-empty_casks` | Finds all empty files and directories in the current directory and sub-directories |
+| `101-gifs` | Lists all files with `.gif` extension in current and subdirectories |
+| `102-acrostic` | Decodes acrostics using the first letter of each input line |
+| `103-the_biggest_fan` | Parses web server logs and displays the 11 most frequent hostnames |
 
 > 📁 Note: The `iacta` file used in some tasks should be created and filled with content beforehand for accurate testing.
 
