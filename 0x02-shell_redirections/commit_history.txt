@@ -1,0 +1,605 @@
+commit eeebadf166c256d88af9d5a0d21651258862c364
+Author: Trevor Ndegwa <tntrende@gmail.com>
+Date:   Fri Jul 25 19:31:33 2025 +0300
+
+    Parse web server logs to display most frequent hosts
+
+commit 135a972716aeed4045d5b491c214ebba7c93973b
+Author: Trevor Ndegwa <tntrende@gmail.com>
+Date:   Fri Jul 25 19:21:35 2025 +0300
+
+    Decode acrostics that use 1st letter of each line
+
+commit c2d2a311bf8e2c49854c7ef5858f015744784774
+Author: Trevor Ndegwa <tntrende@gmail.com>
+Date:   Fri Jul 25 12:55:00 2025 +0300
+
+    List files with .gif extensions i directories and subdirectories
+
+commit d9a5cd5b8b8208ab7bbec4d69973b5f68939687c
+Author: Trevor Ndegwa <tntrende@gmail.com>
+Date:   Fri Jul 25 12:21:37 2025 +0300
+
+    Find empty files and dirs in the current directory and sub-directories
+
+commit d185f0fac43248513bf45479db09ce625e8e6141
+Author: Trevor Ndegwa <tntrende@gmail.com>
+Date:   Fri Jul 25 12:12:35 2025 +0300
+
+    Sorting /etc/passwd by users, also display their home dirs
+
+commit b0f18df157fdcda79b750c3c41a2a668e78252d1
+Author: Trevor Ndegwa <tntrende@gmail.com>
+Date:   Fri Jul 25 12:11:36 2025 +0300
+
+    Sorting /etc/passwd by users, also display their home dirs
+
+commit a087b843328fa679d9be6cf1e05387a3b98bda0e
+Author: Trevor Ndegwa <tntrende@gmail.com>
+Date:   Thu Jul 24 19:06:35 2025 +0300
+
+    Reverse an input
+
+commit cd56769efa68bd5eab4d5dd7e733d8e90503a237
+Author: Trevor Ndegwa <tntrende@gmail.com>
+Date:   Thu Jul 24 19:03:31 2025 +0300
+
+    Removes certain letters from input
+
+commit 6cc4480f3f3df72e6380e05ea601ef639e1f8f2e
+Author: Trevor Ndegwa <tntrende@gmail.com>
+Date:   Thu Jul 24 19:02:13 2025 +0300
+
+    Remove certain letters from input
+
+commit a1a0965e539dc799f6ae443260acb8e0c3e8e419
+Author: Trevor Ndegwa <tntrende@gmail.com>
+Date:   Thu Jul 24 18:57:10 2025 +0300
+
+    Replace characters with others
+
+commit a219039d9757e3192a8b6f00f39f2c23efbd0863
+Author: Trevor Ndegwa <tntrende@gmail.com>
+Date:   Thu Jul 24 18:52:50 2025 +0300
+
+    Display lines beginning with letters only from the path specified
+
+commit e857d3edbde03aa26aee7602d90fde39e7d79384
+Author: Trevor Ndegwa <tntrende@gmail.com>
+Date:   Thu Jul 24 18:45:49 2025 +0300
+
+    Print lines that don
+
+commit 38398197cf290824a4c386cc857b7213ec33b7fe
+Author: Trevor Ndegwa <tntrende@gmail.com>
+Date:   Thu Jul 24 18:43:42 2025 +0300
+
+    Display line matching pattern and 3 lines after
+
+commit 629560c5f6864cff20405a3c84efde214fb1f61d
+Author: Trevor Ndegwa <tntrende@gmail.com>
+Date:   Thu Jul 24 18:43:31 2025 +0300
+
+    Display line matching pattern and 3 lines after
+
+commit 567b5cf06dcc54b24f309e4d97e84723af2c4f2c
+Author: Trevor Ndegwa <tntrende@gmail.com>
+Date:   Thu Jul 24 18:39:24 2025 +0300
+
+    Count lines that have 'bin' in /etc/passwd
+
+commit 7432b2c38ad9d49ae177962d3de23b02bde412eb
+Author: Trevor Ndegwa <tntrende@gmail.com>
+Date:   Thu Jul 24 18:36:25 2025 +0300
+
+    Display lines containing the pattern root from file /etc/passwd
+
+commit 49e49fff58eeba0bb5de66b7b132bbf5ca26e145
+Author: Trevor Ndegwa <tntrende@gmail.com>
+Date:   Thu Jul 24 18:33:38 2025 +0300
+
+    Sort item list and outputs words that appear only once
+
+commit 89ae51b520f884d9f0314183f08bf1eb79337f36
+Author: Trevor Ndegwa <tntrende@gmail.com>
+Date:   Thu Jul 24 18:25:39 2025 +0300
+
+    Display 10 newest files in current dir
+
+commit cef47e3d3d227e6d6c957f44c9fae8b0ca4bc391
+Author: Trevor Ndegwa <tntrende@gmail.com>
+Date:   Thu Jul 24 18:17:28 2025 +0300
+
+    Count directories including hidden with exception of the parent and current directory
+
+commit 88c873a898631c6c37e6d62315aa2157f80a2760
+Author: Trevor Ndegwa <tntrende@gmail.com>
+Date:   Thu Jul 24 18:07:57 2025 +0300
+
+    Deleting regular files with .js from current directory
+
+commit 7eb3f28ffdc1fdf7ba7b3bcbbb97499213759549
+Author: Trevor Ndegwa <tntrende@gmail.com>
+Date:   Thu Jul 24 17:58:40 2025 +0300
+
+    Duplicate last line of iacta file
+
+commit a3cb8655f2a0ff6a7ecfbe6ca80ee57a22293003
+Author: Trevor Ndegwa <tntrende@gmail.com>
+Date:   Thu Jul 24 17:55:43 2025 +0300
+
+    Save state of current directory to file
+
+commit 4bff57946aa67623904ae865b9313cd9f3f2ac60
+Author: Trevor Ndegwa <tntrende@gmail.com>
+Date:   Thu Jul 24 17:46:05 2025 +0300
+
+    Complex filenanme
+
+commit 28cdcf0e841898414c9ac405d43a90c47c414011
+Author: Trevor Ndegwa <tntrende@gmail.com>
+Date:   Thu Jul 24 17:44:38 2025 +0300
+
+    Complex filenanme
+
+commit c7d4ea8eba0983fd997f3f5d552d642c5fa396bc
+Author: Trevor Ndegwa <tntrende@gmail.com>
+Date:   Thu Jul 24 17:26:47 2025 +0300
+
+    Creates a file with special characters in its filename
+
+commit 9d5987a6e99f2f34473f8f8fab2d404dd11b34ea
+Author: Trevor Ndegwa <tntrende@gmail.com>
+Date:   Thu Jul 24 17:18:47 2025 +0300
+
+    Display the 3rd line of file iacta
+
+commit 4b2acd63183319e297bb7f50f093aa8831fff321
+Author: Trevor Ndegwa <tntrende@gmail.com>
+Date:   Thu Jul 24 17:14:09 2025 +0300
+
+    Display 1st 10 lines of /etc/passwd
+
+commit 06c25496a00d7d925d32d1506c5dd0085def4383
+Author: Trevor Ndegwa <tntrende@gmail.com>
+Date:   Thu Jul 24 17:12:31 2025 +0300
+
+    Display last 10 lines of /etc/passwd file
+
+commit be6065b181ef990f16cc47baef34b4c2e9fc8ae8
+Author: Trevor Ndegwa <tntrende@gmail.com>
+Date:   Thu Jul 24 17:04:01 2025 +0300
+
+    Display the content of /etc/passwd and /etc/hosts
+
+commit cb5f52b57accbebb159c90db3b4835cd253024e0
+Author: Trevor Ndegwa <tntrende@gmail.com>
+Date:   Thu Jul 24 16:58:46 2025 +0300
+
+    Display the contents of the /etc/passwd file
+
+commit 62ab27fcbcf624c14a92b2dd9803fc5afb337573
+Author: Trevor Ndegwa <tntrende@gmail.com>
+Date:   Thu Jul 24 16:55:07 2025 +0300
+
+    Display a confused smiley "(Ôo)'
+
+commit 59d8516aa42193070b71610ac73804c281a846d7
+Author: Trevor Ndegwa <tntrende@gmail.com>
+Date:   Thu Jul 24 16:47:47 2025 +0300
+
+    Prints Hello World and then new line to standard output
+
+commit 7af6b24fb698d677428cf083473e4a0810f20fb4
+Author: Trevor Ndegwa <tntrende@gmail.com>
+Date:   Thu Jul 17 09:57:26 2025 +0300
+
+    modified change owner and group assnt
+
+commit ae0e85af8d154068989b75cb0e49a2d52a89de9a
+Author: trevorndegwa <tntrende@gmail.com>
+Date:   Fri Aug 23 03:44:29 2024 +0300
+
+    advanced web debugging 4
+
+commit a7c408affc52058baf21d1cb53b29bfba350de7f
+Author: trevorndegwa <tntrende@gmail.com>
+Date:   Fri Aug 23 03:40:45 2024 +0300
+
+    advanced web debugging 4
+
+commit d745e37819b7d24d5dc1e54e78889dd22660634a
+Author: trevorndegwa <tntrende@gmail.com>
+Date:   Fri Aug 23 03:33:40 2024 +0300
+
+    web stack debugging 4
+
+commit 721020f6c0ab908ab9570483cef62679d0d33bff
+Author: trevorndegwa <tntrende@gmail.com>
+Date:   Sun Aug 18 21:12:28 2024 +0300
+
+    postmoterm
+
+commit b7638c434136f55fa8cfd2d5d1e581ef32c22627
+Author: trevorndegwa <tntrende@gmail.com>
+Date:   Wed Aug 14 14:25:35 2024 +0300
+
+    web debugging 3
+
+commit d4671d88a1950698171e98b6f572aa1df0af3136
+Author: trevorndegwa <tntrende@gmail.com>
+Date:   Wed Aug 14 14:15:38 2024 +0300
+
+    pupper file 0x17
+
+commit cd328cd24a6fa96e73cc99fde6705d5077df1452
+Author: trevorndegwa <tntrende@gmail.com>
+Date:   Wed Aug 14 14:12:29 2024 +0300
+
+    datadog dashboard
+
+commit 7e951dc44491d7648aad7b041acdbe287edb925c
+Author: trevorndegwa <tntrende@gmail.com>
+Date:   Wed Aug 14 13:35:21 2024 +0300
+
+    webstack monitoring
+
+commit cacf64d6239561f36952a40f3232edb984e5ebb5
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Aug 13 16:05:16 2024 +0300
+
+    correction
+
+commit a14805628f5c4e66d747ac39b4a881f6df424a13
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Aug 13 15:17:06 2024 +0300
+
+    debugging 2
+
+commit ad151a569014581de7fcc385cbb641f2b66c49da
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Aug 13 14:27:38 2024 +0300
+
+    correction
+
+commit b8f9cb84a41be0771d3edbbb9a4382d95cd78e0d
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Aug 13 14:13:34 2024 +0300
+
+    make exec
+
+commit fa88b3146efd1957c280c4a604807a1b2578e01e
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Aug 13 14:12:58 2024 +0300
+
+    advanced task
+
+commit 296221010836dd66c10803fff9bb64412c658315
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Aug 13 13:43:10 2024 +0300
+
+    corrections
+
+commit 2f537339cebfa1182b6bdd19d6d628604faa613a
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Aug 13 13:38:22 2024 +0300
+
+    count
+
+commit 647163622ee4ce296ad2c92dd3f77fe35a65275c
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Aug 13 13:33:29 2024 +0300
+
+    corrections
+
+commit 227d47632f6c6bd37227e62c139e43a76add6b73
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Aug 13 13:30:07 2024 +0300
+
+    Count it
+
+commit 9780df0d0cab23da357ea8557e3b5f9afe74b80d
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Aug 13 13:18:26 2024 +0300
+
+    sort
+
+commit 625f854e3fc6278eeeb8bc334204e8eeaf92cb66
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Aug 13 12:48:31 2024 +0300
+
+    function that queries the Reddit API and prints the titles of the first 10 hot posts
+
+commit 8b1f699ba5e3d2207a1a53fa68d114befb76d178
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Aug 13 12:33:48 2024 +0300
+
+    compliance with PEP-8
+
+commit 429864a2c42888258895e9f9091a68a5af46df20
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Aug 13 12:31:44 2024 +0300
+
+    compliance with PEP-8
+
+commit 89dea351d225c505084e331c532ac2b4805f3975
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Aug 13 12:20:56 2024 +0300
+
+    correction
+
+commit 0816753c5db2e0b46edf6ce03ca4f38bf1824355
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Aug 13 12:10:36 2024 +0300
+
+    correction
+
+commit ac4605f03eccf547280973bd1b71ee3d1f54ae14
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Aug 13 12:07:37 2024 +0300
+
+    added main
+
+commit eb23b0531bc0729cb2e349be172f5fdac30a10fb
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Aug 13 11:39:44 2024 +0300
+
+    corrections
+
+commit faba37285cf13c156db56e31290c48fbaea341c8
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Aug 13 11:38:40 2024 +0300
+
+    apache 500 error
+
+commit af71158aef1678e584496eadfb0a65b7f5f85932
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Aug 13 11:37:07 2024 +0300
+
+    fix apache 500 error
+
+commit 181e357b2900e124d1f1318bc9e41643a2c1a831
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Aug 13 10:42:25 2024 +0300
+
+    queries the Reddit API and returns the number of subscribers
+
+commit 9426f92a7266f1b91b67e4eeb039db4c7ee858bf
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Sep 26 11:38:30 2023 -0700
+
+    print a number with 2dp
+
+commit ba450860b9504d1477aef41a2431e42d71d1baf8
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Sep 26 08:57:41 2023 -0700
+
+    correction for expansions
+
+commit b3114fcc16a85e2d8a6bdf3a290115c6b9685fb6
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Sep 26 08:51:55 2023 -0700
+
+    shell expansions
+
+commit 6714ad8a1c16ee8149077780ded097ed74f243a1
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Sep 26 06:11:34 2023 -0700
+
+    the biggest fan
+
+commit 30da6f2ff64e1a43b32748394fffc762245b1a0b
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Sep 26 06:07:43 2023 -0700
+
+    empty casks
+
+commit 7cd6f5d4023a3dcbec782187803b9e30c4099fce
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Sep 26 06:03:13 2023 -0700
+
+    thiago
+
+commit 543ca624f14e105943aba310e075a7a5f0eecda7
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Sep 26 06:00:28 2023 -0700
+
+    hidden bin
+
+commit c7cde1f5242fbd2560532a69db32c0280b3eca7b
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Sep 26 05:56:19 2023 -0700
+
+    display root in dirs
+
+commit 5d8e3188cd7c4de0cec3310cd588d0eae58306f2
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Sep 26 05:49:35 2023 -0700
+
+    script to print last line
+
+commit 283eb414e2c700cf324d7866cd271fbade882462
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Sep 26 05:42:13 2023 -0700
+
+    last last
+
+commit 1d8d01a4c051314ca3a44596d6c1c49453e4dab5
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Sep 26 05:40:15 2023 -0700
+
+    do redirections
+
+commit 346d716e227727e607459c89bb92b15ffaa921ec
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Sep 26 05:30:24 2023 -0700
+
+    hello world
+
+commit 2488c4c59aeff61b388c6ffcac3ba8d8cb5bccf7
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Sep 26 05:22:27 2023 -0700
+
+    did star wars
+
+commit e8ac49f1a2f8d98813a72470b06880e74d0ef6bf
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Sep 26 05:17:31 2023 -0700
+
+    change owner
+
+commit 9c453137ba2166c1ca0fd76fc06ab2e01301f356
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Sep 26 04:38:06 2023 -0700
+
+    shell permissions corrections
+
+commit 619274287258ef652f6ecbc23129046140ecdc27
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Sep 26 04:15:16 2023 -0700
+
+    done 4 to 7
+
+commit 2a21c4f4c6342aa0c250471bd5038a1639db4d64
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Sep 26 04:01:20 2023 -0700
+
+    new owner
+
+commit 97d803645bb11ce74b8e1b681f0623155982eb8b
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Sep 26 03:57:37 2023 -0700
+
+    print username
+
+commit 41acc60d24511f1683334059e93124e1945d4833
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Sep 26 03:56:17 2023 -0700
+
+    im betty
+
+commit ad2fce0c77c383bf643e613d35c7cdefb9b904a0
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Sep 26 03:07:47 2023 -0700
+
+    magic
+
+commit 630d847ca47e7471814952ef475c2f0b9dd40d10
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Sep 26 03:01:57 2023 -0700
+
+    magic
+
+commit e7af0fd1d1b255dcbb92d5015a39e8929716fadf
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Sep 26 03:00:49 2023 -0700
+
+    magic
+
+commit 09f935ea47537af5c553af5fb9194734697a26e9
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Sep 26 02:59:38 2023 -0700
+
+    magic
+
+commit 6c26d419d02076553abde2098c78c5d601d6eef0
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Sep 26 02:58:21 2023 -0700
+
+    magic
+
+commit cd64ffa96a76e67752eed2212ad45fbdb3525c93
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Sep 26 02:56:47 2023 -0700
+
+    magic
+
+commit 5fc600883f1c6476ba5d9e690381035a80222811
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Sep 26 02:49:31 2023 -0700
+
+    checking 14 to 17
+
+commit 1376eaf1a69fb14836246f4569b6fb32011a5c21
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Sep 26 02:45:19 2023 -0700
+
+    check 11 to 13
+
+commit b2e1ed30f55a7e01f220e07081a4ab969432589f
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Sep 26 02:40:30 2023 -0700
+
+    fix
+
+commit 3054afbd63095510d61f5d51afc8567b3075cce6
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Tue Sep 26 02:39:03 2023 -0700
+
+    prev directory
+
+commit 12ef459a5abbb406e4ac0955b0db66979925f998
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Wed Sep 13 18:26:42 2023 -0700
+
+    delete file
+
+commit 102120bfc7adc737ed69a0dd07fec0d46a7f5a58
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Wed Sep 13 18:24:20 2023 -0700
+
+    move files
+
+commit b6dabf2dc0c006707decbafca0f1a54020335dc6
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Wed Sep 13 18:19:44 2023 -0700
+
+    my first directory
+
+commit 58575991b0b4ff82e0e2017a42e6e2191051ee7a
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Wed Sep 13 18:15:20 2023 -0700
+
+    numerical listing
+
+commit f6db377d1bc00ef81d572fd96a04e9cfdf155ae7
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Wed Sep 13 18:08:44 2023 -0700
+
+    list even hidden files
+
+commit 37b248c6ce75df2b64c1630b5a585e33bd1a9b7d
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Wed Sep 13 18:06:44 2023 -0700
+
+    list files in long format
+
+commit dd0a54f3d294f08864b829f1b43140d40d7db555
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Wed Sep 13 18:04:09 2023 -0700
+
+    go to home
+
+commit 8e946085e03b0ecf69312ec550c2725ed5ae5148
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Wed Sep 13 18:00:18 2023 -0700
+
+    list files
+
+commit feeee429da083c6d0cdfcb78bc3b7be8ebcf387c
+Author: trevor ndegwa <tntrende@gmail.com>
+Date:   Wed Sep 13 17:57:38 2023 -0700
+
+    shebang
+
+commit 2f799d2e773b66e3fed65756ab444bfaeb62c1bd
+Author: Trevor Ndegwa <tntrende@gmail.com>
+Date:   Wed Sep 13 17:50:49 2023 -0700
+
+    add readme
+
+commit b29ce084da665954d12d833dd561fa9b129c44ee
+Author: Trevor Ndegwa <tntrende@gmail.com>
+Date:   Wed Sep 13 17:45:48 2023 -0700
+
+    know your working directory
